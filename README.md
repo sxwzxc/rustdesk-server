@@ -81,6 +81,10 @@
 
 [**说明文件**](https://rustdesk.com/docs/zh-cn/self-host/)
 
+[**How to migrate OSS to Pro**](https://rustdesk.com/docs/en/self-host/rustdesk-server-pro/installscript/#convert-from-open-source)
+
+Self-host your own RustDesk server, it is free and open source.
+
 自行搭建属于你的RustDesk服务器,所有的一切都是免费且开源的
 
 ## 如何自行构建
